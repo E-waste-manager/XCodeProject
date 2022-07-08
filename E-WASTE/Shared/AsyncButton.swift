@@ -1,4 +1,3 @@
-
 import SwiftUI
 
 struct AsyncButton<Label: View>: View {
